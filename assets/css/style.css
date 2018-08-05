@@ -1,0 +1,57 @@
+.navbar.transparent.navbar-inverse .navbar-inner {
+    border-width: 0px !important;
+    -webkit-box-shadow: 0px 0px!important;
+    box-shadow: 0px 0px!important;
+    background-color: rgba(0,0,0,0.0)!important;
+    background-image: -webkit-gradient(linear, 50.00% 0.00%, 50.00% 100.00%, color-stop( 0% , rgba(0,0,0,0.00)),color-stop( 100% , rgba(0,0,0,0.00)))!important;
+    background-image: -webkit-linear-gradient(270deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%)!important;
+    background-image: linear-gradient(180deg,rgba(0,0,0,0.00) 0%,rgba(0,0,0,0.00) 100%)!important;
+}
+
+.masthead-content {
+    background-color:black;
+    color:white;
+    padding:100px;
+    text-align: right;
+}
+
+body {
+    background-color: white;
+}
+
+.img-fluid {
+    max-width: 80%;
+    height: auto;
+    margin: auto;    
+    display: block;
+}
+
+#linked {
+    max-width: 20%;
+    height:auto;
+    margin: auto;    
+    display: block;
+    padding:2px;
+}
+#git {
+    max-width: 20%;
+    height:auto;
+    margin: auto;    
+    display: block;
+    padding:2px;
+}
+
+.btn {
+    margin:10px 0px 10px 0px;
+    color:white;
+    background-color: black;
+
+}
+
+.Photo {
+    display:table;
+}
+
+#me {
+    border-radius: 80%;
+}
